@@ -1,2 +1,4 @@
 # Ciencia-de-dados-EBAC
-Repositório com as atividades realizadas no curso de ciência de dados da EBAC.
+
+Neste repositório eu compartilho as atividades realizadas no curso de ciência de dados da EBAC.
+
